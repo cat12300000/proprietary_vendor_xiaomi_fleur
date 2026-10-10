@@ -359,6 +359,8 @@ PRODUCT_PACKAGES += \
     libvolte_xdmc_shr \
     libvpud_vcodec \
     vendor.mediatek.hardware.audio@7.1 \
+    vendor.mediatek.hardware.bluetooth.audio@2.1 \
+    vendor.mediatek.hardware.bluetooth.audio@2.2 \
     APUWareUtilsServer \
     AVCSecureVdecCA \
     HEVCSecureVdecCA \
